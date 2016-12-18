@@ -1,4 +1,3 @@
-setwd('C:/Users/Clemence.Burnichon/Documents/AGRICULTURE/CHICKEN SPRINT/SQL_data_extract')
 
 library(stringr)
 library(plyr)

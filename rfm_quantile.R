@@ -1,6 +1,6 @@
 
 
-#setwd('//wdmpsvr01/RedirectedFolders/clemence.burnichon/My Documents/code_repo/rfm_model')
+
 
 
 rfm_model <- function(df){

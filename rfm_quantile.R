@@ -1,8 +1,5 @@
 
 
-
-
-
 rfm_model <- function(df){
   
   r <- quantile(df$recency, c(0.25,0.5,0.75))

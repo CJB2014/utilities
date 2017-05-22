@@ -47,10 +47,10 @@ u = str(int(u))
 # In[122]:
 
 #Twitter API credentials
-consumer_key = 'lp2xTbK2VFGKJ5NOmlZHLDZwp'
-consumer_secret = 'lBnXP1gfNkcCVBX6mf6hRJqPRUg5VnQa8ifGqazkUHxWmQ12QB'
-access_key = '811499707902070784-avZAePY1dJPEKZR8NOvMTbyy3fZaRJA'
-access_secret = 'Hv7kSUOF9XBYsKziRzwmFqfvKf6wP3CRoXX0INAaJ6G4Y'
+consumer_key = ''
+consumer_secret = ''
+access_key = ''
+access_secret = ''
 
 
 # In[123]:
